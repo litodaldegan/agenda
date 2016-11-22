@@ -1,0 +1,16 @@
+PHP integrado MySQL
+CRUD
+cadastrar, consultar, editar e deletar clientes.
+jQuery e Ajax é um diferencial
+
+cliente
+pessoa física ou pessoa jurídica
+
+cliente um ou mais telefones
+	    um ou mais endereço
+	    um ou mais e-mails.
+
+Na hora de realizar a consulta o cliente deve ter um atalho para enviar e-mail(mailto:) para um dos e-mails cadastrados ou para todos.
+
+Gentelella
+template disponível opções: cadastrar, consultar, editar e deletar.
